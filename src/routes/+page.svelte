@@ -10,11 +10,11 @@
   ];
   const socialLinks = [
     { name: 'X / Twitter', icon: twitter, url: 'https://x.com/YechillOnSOL' },
-    { name: 'Pump.fun', icon: pump, url: '#' },
+    { name: 'Pump.fun', icon: pump, url: 'https://pump.fun/coin/FjkwgdR32DX2PXMLWSpnqb1o7B9C3DxmD1SKQMkipump' },
     { name: 'Dex' , icon:dex , url: '#'},
   ];
   const tokenomicsData = {
-    contract: "8EJSP5QYUBGGZXZ3ZV44CMJQFKHDTJPB54DHMZUPUMP",
+    contract: "FjkwgdR32DX2PXMLWSpnqb1o7B9C3DxmD1SKQMkipump",
     supply: "1.000.000.000",
     lp: "BURNED",
     tax: "0%",
